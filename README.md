@@ -181,7 +181,7 @@ jupyter lab
 MSc Digital Marketing & Artificial Intelligence — SKEMA Business School, Paris
 Specialising in Marketing Analytics · Performance Marketing · AI-Driven Strategy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)www.linkedin.com/in/rohit-pal-26a756256
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:rdmrohit123@gmail.com)
 
 ---
